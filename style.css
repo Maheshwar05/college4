@@ -468,4 +468,7 @@ footer p{
     .shopinfo2{
         margin-left: 9%;
     }
+    .slider img{
+        height: 45vh;
+    }
 }
